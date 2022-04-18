@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EFCore.Repo
+build_property.ProjectDir = C:\Git\Entity-Framework\Entity Framework\EFcore.WebApi\EFCore.Repo\
