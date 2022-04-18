@@ -55,7 +55,7 @@ namespace EFcore.WebApi.Controller
                 return BadRequest($"Algo deu errado{ex}");
             }
         }
-
+        // teste 0001
         [HttpPost("addSecreto")]
         public ActionResult AddSecreto(Heroi model)
         {
