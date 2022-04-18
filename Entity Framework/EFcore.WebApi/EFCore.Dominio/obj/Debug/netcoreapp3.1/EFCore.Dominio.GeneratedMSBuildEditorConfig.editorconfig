@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EFCore.Dominio
+build_property.ProjectDir = C:\Git\Entity Framework\EFcore.WebApi\EFCore.Dominio\
